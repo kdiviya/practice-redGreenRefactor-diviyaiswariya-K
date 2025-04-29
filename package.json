@@ -1,0 +1,23 @@
+{
+  "name": "practice-redgreenrefactor-diviyaiswariya-k",
+  "version": "1.0.0",
+  "description": "",
+  "main": "countVowels.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdiviya/practice-redGreenRefactor-diviyaiswariya-K.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kdiviya/practice-redGreenRefactor-diviyaiswariya-K/issues"
+  },
+  "homepage": "https://github.com/kdiviya/practice-redGreenRefactor-diviyaiswariya-K#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
